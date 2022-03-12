@@ -1,0 +1,15 @@
+D:\project c#\Laba1_Sem2\bin\Release\Laba1_Sem2.exe.config
+D:\project c#\Laba1_Sem2\bin\Release\Laba1_Sem2.exe
+D:\project c#\Laba1_Sem2\bin\Release\Laba1_Sem2.pdb
+D:\project c#\Laba1_Sem2\obj\Release\Laba1_Sem2.csprojAssemblyReference.cache
+D:\project c#\Laba1_Sem2\obj\Release\MainWindow.g.cs
+D:\project c#\Laba1_Sem2\obj\Release\App.g.cs
+D:\project c#\Laba1_Sem2\obj\Release\Laba1_Sem2_MarkupCompile.cache
+D:\project c#\Laba1_Sem2\obj\Release\Laba1_Sem2_MarkupCompile.lref
+D:\project c#\Laba1_Sem2\obj\Release\MainWindow.baml
+D:\project c#\Laba1_Sem2\obj\Release\Laba1_Sem2.g.resources
+D:\project c#\Laba1_Sem2\obj\Release\Laba1_Sem2.Properties.Resources.resources
+D:\project c#\Laba1_Sem2\obj\Release\Laba1_Sem2.csproj.GenerateResource.cache
+D:\project c#\Laba1_Sem2\obj\Release\Laba1_Sem2.csproj.CoreCompileInputs.cache
+D:\project c#\Laba1_Sem2\obj\Release\Laba1_Sem2.exe
+D:\project c#\Laba1_Sem2\obj\Release\Laba1_Sem2.pdb
