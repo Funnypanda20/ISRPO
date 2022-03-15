@@ -1,0 +1,16 @@
+F:\ASP Net\Laba5_sem2\bin\Debug\Laba5_sem2.exe.config
+F:\ASP Net\Laba5_sem2\bin\Debug\Laba5_sem2.exe
+F:\ASP Net\Laba5_sem2\bin\Debug\Laba5_sem2.pdb
+F:\ASP Net\Laba5_sem2\obj\Debug\Laba5_sem2.csproj.AssemblyReference.cache
+F:\ASP Net\Laba5_sem2\obj\Debug\Laba5_sem2.csproj.SuggestedBindingRedirects.cache
+F:\ASP Net\Laba5_sem2\obj\Debug\MainWindow.g.cs
+F:\ASP Net\Laba5_sem2\obj\Debug\App.g.cs
+F:\ASP Net\Laba5_sem2\obj\Debug\Laba5_sem2_MarkupCompile.cache
+F:\ASP Net\Laba5_sem2\obj\Debug\Laba5_sem2_MarkupCompile.lref
+F:\ASP Net\Laba5_sem2\obj\Debug\MainWindow.baml
+F:\ASP Net\Laba5_sem2\obj\Debug\Laba5_sem2.g.resources
+F:\ASP Net\Laba5_sem2\obj\Debug\Laba5_sem2.Properties.Resources.resources
+F:\ASP Net\Laba5_sem2\obj\Debug\Laba5_sem2.csproj.GenerateResource.cache
+F:\ASP Net\Laba5_sem2\obj\Debug\Laba5_sem2.csproj.CoreCompileInputs.cache
+F:\ASP Net\Laba5_sem2\obj\Debug\Laba5_sem2.exe
+F:\ASP Net\Laba5_sem2\obj\Debug\Laba5_sem2.pdb
